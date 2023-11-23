@@ -1,1 +1,1 @@
-# My GDD Docume
+# GDD Docume
