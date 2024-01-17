@@ -30,7 +30,7 @@ Trakya Drift is a simple 3D racing game with drift elements. Players will face t
 
 ## Credits
 - Game Engine: Unity
-- Graphic Assets: [License Holder's Name](https://t.me/c/1990722568/2)
+- Graphic Assets: [Game Assets](https://t.me/c/1990722568/2)
 - Music: [License Holder's Name]
 
 ## License
