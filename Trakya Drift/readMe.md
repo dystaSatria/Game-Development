@@ -25,7 +25,7 @@ Trakya Drift is a simple 3D racing game with drift elements. Players will face t
 ## Installation
 1. Download the installation file from [releases](https://t.me/c/1990722568/7).
 2. Extract the ZIP file.
-3. Run the installation file.
+3. Run the installation file at Unity.
 4. Follow the installation instructions.
 
 ## Credits
