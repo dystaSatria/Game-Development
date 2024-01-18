@@ -31,7 +31,7 @@ Trakya Drift is a simple 3D racing game with drift elements. Players will face t
 ## Credits
 - Game Engine: Unity
 - Graphic Assets: [Game Assets](https://t.me/c/1990722568/2)
-- Music: [License Holder's Name]
+- Music: Guns N' Roses – Welcome To The Jungle (1988)
 
 
 ## Development Notes
