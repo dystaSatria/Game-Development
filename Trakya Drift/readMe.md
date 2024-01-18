@@ -3,6 +3,11 @@
 ## Description
 Trakya Drift is a simple 3D racing game with drift elements. Players will face two opponents in the race and must master the art of drifting to achieve victory. The game is designed to provide an exciting and enjoyable racing experience.
 
+## Preview
+
+https://github.com/dystaSatria/Game-Development/assets/87264688/3206a6bc-62bb-40bd-b800-029a9c7b33e3
+
+
 ## Key Features
 - Realistic 3D environment in the Trakya region.
 - Simple gameplay mechanics with a focus on drifting techniques.
