@@ -34,7 +34,7 @@ https://github.com/dystaSatria/Game-Development/assets/87264688/3206a6bc-62bb-40
 4. Follow the installation instructions.
 
 ## Credits
-- Game Engine: Unity
+- Game Engine: Unity 2022.3.14f1
 - Graphic Assets: [Game Assets](https://t.me/c/1990722568/2)
 - Music: Guns N' Roses – Welcome To The Jungle (1988)
 
