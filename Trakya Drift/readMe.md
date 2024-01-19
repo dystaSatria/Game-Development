@@ -46,4 +46,4 @@ https://github.com/dystaSatria/Game-Development/assets/87264688/3206a6bc-62bb-40
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/dystaSatria/Game-Development/blob/main/Trakya%20Drift/License.md).
