@@ -1,5 +1,7 @@
 # Dağa Giden Dayı Game 
 
+https://github.com/dystaSatria/Game-Development/assets/87264688/31647770-8303-4134-b338-e25aea7124a2
+
 Dağa Giden Dayı Game , a thrilling and addictive 2D physics-based driving game inspired by the fun and excitement of maneuvering vehicles through rugged terrain. Prepare yourself for an adventurous ride through varied landscapes, challenging obstacles, and collectibles that enhance your gaming experience. Perfect your driving skills, and conquer hills!
 
 ## Features
